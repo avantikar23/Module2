@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/ThirdPersonCharacter_Blueprint.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/BP_MyActor.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/MY_Actor2.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/Blueprints/NEWGAMEMODE.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/MyActorRotate.uasset"
+			]
+		}
+	]
+}
